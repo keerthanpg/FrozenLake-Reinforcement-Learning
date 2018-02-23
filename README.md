@@ -1,4 +1,6 @@
-# 10-703 Homework 1 Programming
+# Reinforcement Learning on OpenAI Gym Frozen Lake environment.
+
+This was perfomed as part of my assignment for Deep Reinforcement Learning and Control class taken by Prof. Russ Salakhutdinov. 
 
 ## Setup
 
